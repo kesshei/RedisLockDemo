@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisLock1", "RedisLock1\RedisLock1.csproj", "{3A8895AF-85D3-4625-A8F3-5C58DA5E69E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisLock2", "RedisLock2\RedisLock2.csproj", "{5FB19D9D-3D8C-422C-9879-63495BA3C6D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisGzip", "RedisGzip\RedisGzip.csproj", "{39F380E9-C598-4E64-A4D6-D1DA60319DF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A8895AF-85D3-4625-A8F3-5C58DA5E69E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A8895AF-85D3-4625-A8F3-5C58DA5E69E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A8895AF-85D3-4625-A8F3-5C58DA5E69E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A8895AF-85D3-4625-A8F3-5C58DA5E69E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FB19D9D-3D8C-422C-9879-63495BA3C6D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FB19D9D-3D8C-422C-9879-63495BA3C6D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FB19D9D-3D8C-422C-9879-63495BA3C6D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FB19D9D-3D8C-422C-9879-63495BA3C6D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39F380E9-C598-4E64-A4D6-D1DA60319DF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F380E9-C598-4E64-A4D6-D1DA60319DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F380E9-C598-4E64-A4D6-D1DA60319DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F380E9-C598-4E64-A4D6-D1DA60319DF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EC240B8-C468-42C1-97E2-CADC5E935CE5}
+	EndGlobalSection
+EndGlobal
